@@ -1,0 +1,5 @@
+pandas
+xgboost
+joblib
+kafka-python
+psycopg2-binary
